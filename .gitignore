@@ -1,0 +1,16 @@
+# Generado por Godot y .NET
+.godot/
+.mono/
+bin/
+obj/
+*.translation
+
+# Datos de los estudios (se crean al simular)
+Estudios/
+
+# Ficheros del sistema y de editores
+Thumbs.db
+.DS_Store
+.vs/
+.vscode/
+*.user

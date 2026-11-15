@@ -1,0 +1,22 @@
+Simulación de tráfico
+Copyright 2026 Vicente Simón
+
+Proyecto original: https://github.com/QMBECanada/SimulacionTrafico
+
+Este proyecto se distribuye con la licencia Apache 2.0 (fichero LICENSE). Se puede copiar,
+modificar y redistribuir libremente, pero toda copia o versión derivada debe conservar este
+fichero NOTICE, con la referencia al proyecto original y sus créditos, e indicar qué se ha
+modificado.
+
+Créditos (proyecto hecho con ayuda de inteligencia artificial):
+- Programación y test: Claude, https://claude.ai
+- Diseño vehículos: Gpt, https://chatgpt.com
+- FDE, arnés y dirección: Vicente Simón, https://www.linkedin.com/in/vicentesimon
+
+Plataforma: Godot Engine, https://godotengine.org
+Godot Engine se distribuye con su propia licencia MIT:
+Copyright (c) 2014-present Godot Engine contributors.
+Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+Godot no forma parte de este repositorio: se descarga aparte, y sus paquetes de C#
+(Godot.NET.Sdk, GodotSharp) se obtienen de nuget.org al compilar. Licencia de Godot y de sus
+componentes de terceros: https://godotengine.org/license

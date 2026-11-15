@@ -1,0 +1,12 @@
+<Project Sdk="Godot.NET.Sdk/4.7.2">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <RootNamespace>SimulacionTrafico</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Las pruebas automáticas son un proyecto aparte (Pruebas/Pruebas.csproj): no se compilan dentro del simulador. -->
+    <Compile Remove="Pruebas/**" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+root = true
+
+[*.cs]
+# Estilo del proyecto: un inicializador puede llevar varias propiedades en la misma línea (estilo compacto).
+csharp_new_line_before_members_in_object_initializers = false
+csharp_new_line_before_members_in_anonymous_types = false
